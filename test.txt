@@ -1,0 +1,3 @@
+just testing auth
+from command line
+on my new mac osx
