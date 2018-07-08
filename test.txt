@@ -1,3 +1,2 @@
-just testing auth
-from command line
-on my new mac osx
+changing it now after restarting everything
+are the creds still stored?
